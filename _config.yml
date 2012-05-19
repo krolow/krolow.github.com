@@ -9,11 +9,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Cobaia
+title : cObaia.net
 tagline: Hurts your code
 author :
   name : Vinícius Krolow
-  email : vinicius@cobaia.net
+  email : vinicius[at]cobaia.net
   github : krolow
   twitter : krolow
   feedburner : cobaia
