@@ -2,8 +2,8 @@
 layout: post
 title: "Use Code Standard that forces you to write better code"
 description: ""
-category: PHP 
-tags: [Code Standard    ]
+category: php 
+tags: [code standard    ]
 ---
 {% include JB/setup %}
 
