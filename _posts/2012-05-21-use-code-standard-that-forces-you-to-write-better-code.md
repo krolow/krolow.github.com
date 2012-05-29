@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Use Code Standard that forces you to write better code"
-description: ""
+description: "How get advantage of a code standard that forces you to write a better code."
 category: php 
 tags: [code standard    ]
 ---

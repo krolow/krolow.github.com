@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Having fun with Websocket using Node.js, Javascript, Canvas and Arduino"
-description: ""
+description: "Having fun make some projects with node.js and arduino that makes iterations with user in real time"
 category: projects  
 tags: [socket.io, express, canvas, serial]
 ---
