@@ -3,7 +3,7 @@ layout: post
 title: "PHP static analysis tools: PHP Code Standard the phpcs"
 description: "A serie of PHP static analysis tool that will supports you in your daily work, in this post about a tool that check your code standard phpcs"
 category: php
-tags: [static analysis tool,code standard]
+tags: [static analysis tool, code standard]
 ---
 {% include JB/setup %}
 
