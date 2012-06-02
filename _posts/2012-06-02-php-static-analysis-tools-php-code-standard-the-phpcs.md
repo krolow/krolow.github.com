@@ -158,12 +158,12 @@ underscore
 *Ignore folders/files:*
 
 <pre>
-	phpcs /path/Project --ignore=*/tests/*,file.php
+    phpcs /path/Project --ignore=*/tests/*,file.php
 </pre>
 
 *Replace tabs with spaces:*
 <pre>
-	phpcs --tab-width=4 /path/Project/
+    phpcs --tab-width=4 /path/Project/
 </pre>
 
 And still having several other options that you can check in the <a href="http://pear.php.net/manual/en/package.php.php-codesniffer.advanced-usage.php">PHP Code Standard documentation</a>, I have just summarize up here the most used commands…
