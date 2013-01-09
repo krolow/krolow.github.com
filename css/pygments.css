@@ -75,4 +75,4 @@
 .highlight .vg { color: #dd7700 } /* Name.Variable.Global */
 .highlight .vi { color: #3333bb } /* Name.Variable.Instance */
 .highlight .il { color: #0000DD; font-weight: bold } /* Literal.Number.Integer.Long */
-
+table.highlight {background-color:#f8f8ff !important;}
