@@ -1,32 +1,25 @@
-# This is the default format. 
-# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
-
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: true
+markdown: rdiscount
 pygments: true
+permalink: /:categories/:year/:month/:day/:title 
+auto: true
+rdiscount:
+  extensions: [smart]
 
-# Themes are encouraged to use these universal variables 
-# so be sure to set them if your theme uses them.
-#
-title : cObaia.net
-tagline: Hurts your code
+name: Vinícius Krolow
+url: http://cobaia.com
+description: A fantastic blog that is fantastic.
+twitter: krolow
+github: krolow
+gravatar_url: http://gravatar.com/avatar/6215d8cdc86569e007d358589e9ddc76
+
+production_url : http://cobaia.net
+
 author :
   name : Vinícius Krolow
   email : vinicius[at]cobaia.net
   github : krolow
   twitter : krolow
   feedburner : cobaia
-
-# The production_url is only used when full-domain names are needed
-# such as sitemap.txt 
-# Most places will/should use BASE_PATH to make the urls
-#
-# If you have set a CNAME (pages.github.com) set your custom domain here.
-# Else if you are pushing to username.github.com, replace with your username.
-# Finally if you are pushing to a GitHub project page, include the project name at the end.
-#
-production_url : http://cobaia.net
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -114,4 +107,3 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
