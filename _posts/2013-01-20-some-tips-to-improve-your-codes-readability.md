@@ -18,7 +18,7 @@ Well, it's not that simple, but there are some tips, that you can follow, I'll t
 
 What? Before?? YES! let me say why...
 
-When you came with the idea that is needed a new method or a new class, you just starting create this, but the mainly idea of what your method or class should do, you probably have in mind, so why not write the comment before starting write the method or class?
+When you came with the idea that is needed a new method or a new class, we normally starts create the code for this class/method, but probably the main idea of what your method or class will do, you already have in mind, so why not describe in a comment what the method/class will do, before you start write real code.
 
 #### Some of advatanges that you will get putting this in pratice:
 
@@ -122,5 +122,5 @@ Using this in pratice, it will help to test your code, it will be more simple to
 
 Take care of what you are writing, try always to think if another person reads your code if they will understood, try to make consistent code, a consistent API, follow the rules.
 
-And recommend read <a href="http://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf">Object Calisthenics</a>, it will help you write better OOP code, and also code that is more easily to read.
+And I recommend to read <a href="http://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf">Object Calisthenics</a>, it will help you write better OOP code, and also code that it's more easy to read.
 
