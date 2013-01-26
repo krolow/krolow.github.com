@@ -75,13 +75,9 @@ A good way to think, is read the action. For example:
 
 Try read the code... "User get the User 1" sounds strange... so when you are reading the code, you will get a good overview, try approximate as maximum as possible of our natural language.
 
-So for the example, given the example before, we can read as: "User retrive to me user X"
+So for the example, a better approach would be:
 
-<script src="https://gist.github.com/95607d5da660610bceb1.js?file=cs2.php"></script>
-
-Or
-
-"User get user X"
+**"User Manager get user by ID X"**
 
 <script src="https://gist.github.com/95607d5da660610bceb1.js?file=cs1.php"></script>
 
